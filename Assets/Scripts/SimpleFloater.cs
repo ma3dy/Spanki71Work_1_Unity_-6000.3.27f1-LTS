@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class SimpleFloater : MonoBehaviour
 {
-    public float speed = 2.0f;
+    public float speed = 5.0f;
     public float height = 0.5f;
     private Vector3 startPos;
 
